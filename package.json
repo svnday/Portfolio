@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "An updated portfolio after graduating from a web development bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svnday/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svnday/Portfolio/issues"
+  },
+  "homepage": "https://github.com/svnday/Portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
